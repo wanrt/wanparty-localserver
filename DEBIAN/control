@@ -1,0 +1,9 @@
+Package: wanparty-localserver
+Version: 1.11.13
+Section: admin
+Priority: optional
+Architecture: all
+Depends:  wanparty-localserver-stretch
+Conflicts: vim-tiny, netcat-traditional, wanparty-localserver-jessie
+Maintainer: Sohaib Lafifi <sohaib.lafifi@univ-artois.fr>
+Description: Meta package pour le serveur locale de la wan
